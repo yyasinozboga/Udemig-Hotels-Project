@@ -48,6 +48,7 @@ This project is a user-friendly **hotel filtering, adding, and deleting web appl
 
    cd backend
    npm install
+
    cd ../frontend
    npm install
 
@@ -57,3 +58,7 @@ This project is a user-friendly **hotel filtering, adding, and deleting web appl
    cd frontend
    npm start
    ```
+
+   ## Preview
+
+   <img src="./frontend/public/udemig-hotels-project-gif.gif">
