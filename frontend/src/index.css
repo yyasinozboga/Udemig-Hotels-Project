@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .rating {
+    @apply text-white font-medium rounded-md py-1 w-[40px] text-center;
+  }
+}
